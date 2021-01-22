@@ -32,6 +32,7 @@ This is an alphabetical list of companies and apps that provide solutions for in
 <li><a href="https://debtlookup.com">Debtlookup</a> - free service which provides scecure and easy access to account-level data and documents supporting claims by legitimate debit collectors.</li>
 <li><a href="https://www.lendingclub.com">Lending club</a> - provides personal loans, business loans, and finacing for elective medical procedures with low interest rates</li>
 <li><a href="https://www.upstart.com">Upstart</a> - provides loans with low interest rates</li>
+<li><a href="https://www.brightmoney.co">Bright Money</a> - Helps Americans pay off credit card debt automatically through the power of AI and data science</li>
 <li><a href="https://www.earnest.com/">Earnest</a> -  provides loans with low interest rates</li>
 <li><a href="https://www.readyforzero.com">Ready for zero</a> - app which helps the user manage and reduce their debts</li>
 <li><a href="http://www.suzeorman.com/calculators/">Suze Orman Calculators</a> - special calculators that helps the user calculate their debts</li>
